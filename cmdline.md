@@ -24,13 +24,28 @@ This week we learned about `grep` and regular expressions as well as about stand
 Sed is the most important thing I learned about during this week. It had been on my "I'll get to this later" list of things to look up, so it was a pleasant surprise that it was included in to the course curriculum. The next thing is probably to deepen my knowledge on `sed` and then to look up `awk` to accompany it. We also learned about the pipe `|` and about how it works.
 
 
-
 ## Week 5: Scripting and Configuration Files
+This week we learned about bash scripting and about configuration files. One example of a bash sript was this one that we wrote for our assignment:
 
+```bash
+#!/usr/bin/env bash
+
+filename=""
+ls -a |
+egrep "$1" > $filename
+
+echo $filename
+```
+
+The script checks if a file exists in the current folder and prints out the name of the file if it exists.
+
+Another thing about which we learned was configuration files. These files change the way our programs operate and we can modify those things to our liking. An example would be my Neovim config which lives in GitHub [here](https://github.com/ohtohalla/nvim-lsp-config).                                  
 
 ## Week 6: Installing and Running Programs
+During this week we learned about installing and running programs on the command line. We also learned about permissions and how to manage them. Personally I had some problems when installing `blibparser` for python and it turned out there were some problems with the package at the time. It was still interesting to poke around and try to fix the problem. I learned some new things about permissions this week. Namely, I finally figured out how to parse the number codes of `chmod` without a reference.
 
 
 ## Week 7: Version Control
+The las week was one that I had been waiting for, since it was about verison control and `git`. We learned the basics of Git and version control as a concept. I think this has provided me with enough understanding on the matter that I feel now comfortable to poke around a little more in Git and to finally try to figure out (among other things) what is the difference between _merging_ and _rebasing_.
 
 
