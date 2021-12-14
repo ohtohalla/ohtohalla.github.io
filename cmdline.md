@@ -61,4 +61,4 @@ During this week we learned about installing and running programs on the command
 ## Week 7: Version Control
 The las week was one that I had been waiting for, since it was about verison control and `git`. We learned the basics of Git and version control as a concept. I think this has provided me with enough understanding on the matter that I feel now comfortable to poke around a little more in Git and to finally try to figure out (among other things) what is the difference between _merging_ and _rebasing_. I also learned many things about Ruby On Rails since Jekyll was not comfortable with a newer version of Ruby that my OS happened to ship.
 
-![](https://i.imgur.com/vPAiq.png)
+![image](https://i.imgur.com/vPAiq.png)
