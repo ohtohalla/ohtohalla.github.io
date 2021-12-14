@@ -21,6 +21,9 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Projects
 
++ I'm working on my Neovim configuration from time to time and the dotfiles can be found [here](https://github.com/ohtohalla/nvim-lsp-config)
++ My personal portfolio will *hopefully* someday reside [here](https://juhokajava.fi/). It is my previous foray to the wonderful world of GitHub Pages. It has been edited with a web interface called Stackbit, and deployed via Netlify. I'm hoping that someday it will have a comprehensive list of my skills.
++ The command-line course project can be found [here](https://github.com/ohtohalla/cmdline-course)
 ## Misc. 
+I'm also an avid photographer and like to fiddle with different kinds of synthesizers. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
